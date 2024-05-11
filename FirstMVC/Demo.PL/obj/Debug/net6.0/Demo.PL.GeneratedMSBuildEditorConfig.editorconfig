@@ -1,0 +1,183 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Demo.PL
+build_property.RootNamespace = Demo.PL
+build_property.ProjectDir = G:\Route\ASP.NET\Eng.Ahmed Khalid\06 MVC\FirstMVC\Demo.PL\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = G:\Route\ASP.NET\Eng.Ahmed Khalid\06 MVC\FirstMVC\Demo.PL
+build_property._RazorSourceGeneratorDebug = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Account/CheckYourInBox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDaGVja1lvdXJJbkJveC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Account/ForgetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3JnZXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Department/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Department/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Department/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Department/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Department/PartialViews/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxQYXJ0aWFsVmlld3NcQ3JlYXRlT3JVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Department/PartialViews/DetailsOrDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxQYXJ0aWFsVmlld3NcRGV0YWlsc09yRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Department/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Employee/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Employee/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Employee/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Employee/PartialViews/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcUGFydGlhbFZpZXdzXENyZWF0ZU9yVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Employee/PartialViews/DetailsOrDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcUGFydGlhbFZpZXdzXERldGFpbHNPckRlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Employee/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Role/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Role/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Role/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Role/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Role/PartialViews/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxQYXJ0aWFsVmlld3NcQ3JlYXRlT3JVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Role/PartialViews/DetailsOrDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxQYXJ0aWFsVmlld3NcRGV0YWlsc09yRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Role/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Shared/_AuthLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BdXRoTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Shared/_ButtonpartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CdXR0b25wYXJ0aWFsVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Users/PartialViews/CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcUGFydGlhbFZpZXdzXENyZWF0ZU9yVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Users/PartialViews/DetailsOrDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcUGFydGlhbFZpZXdzXERldGFpbHNPckRlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Users/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Route/ASP.NET/Eng.Ahmed Khalid/06 MVC/FirstMVC/Demo.PL/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-717xabic2n

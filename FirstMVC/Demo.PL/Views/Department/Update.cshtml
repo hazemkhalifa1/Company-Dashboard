@@ -1,0 +1,11 @@
+﻿@model DepartmentVM
+@{
+    ViewData["Title"] = "Update";
+}
+<h1 class="mt-3">Update @Model.Name</h1>
+<div class="mt-3" asp-validation-summary="All"></div>
+<form class="mt-3" asp-action="Update" method="post">
+    <partial name="PartialViews/CreateOrUpdate" />
+    <input type="submit" value="Update" class="btn btn-warning"/>
+    <a asp-action="Index" class="btn btn-secondary">Back To List</a>
+</form>

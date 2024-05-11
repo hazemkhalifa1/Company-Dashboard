@@ -1,0 +1,12 @@
+G:\Route\ASP.NET\Eng.Ahmed Khalid\06 MVC\FirstMVC\Demo.DAL\bin\Debug\net6.0\Demo.DAL.deps.json
+G:\Route\ASP.NET\Eng.Ahmed Khalid\06 MVC\FirstMVC\Demo.DAL\bin\Debug\net6.0\Demo.DAL.dll
+G:\Route\ASP.NET\Eng.Ahmed Khalid\06 MVC\FirstMVC\Demo.DAL\bin\Debug\net6.0\Demo.DAL.pdb
+G:\Route\ASP.NET\Eng.Ahmed Khalid\06 MVC\FirstMVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.AssemblyReference.cache
+G:\Route\ASP.NET\Eng.Ahmed Khalid\06 MVC\FirstMVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\Route\ASP.NET\Eng.Ahmed Khalid\06 MVC\FirstMVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+G:\Route\ASP.NET\Eng.Ahmed Khalid\06 MVC\FirstMVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfo.cs
+G:\Route\ASP.NET\Eng.Ahmed Khalid\06 MVC\FirstMVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+G:\Route\ASP.NET\Eng.Ahmed Khalid\06 MVC\FirstMVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.dll
+G:\Route\ASP.NET\Eng.Ahmed Khalid\06 MVC\FirstMVC\Demo.DAL\obj\Debug\net6.0\refint\Demo.DAL.dll
+G:\Route\ASP.NET\Eng.Ahmed Khalid\06 MVC\FirstMVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.pdb
+G:\Route\ASP.NET\Eng.Ahmed Khalid\06 MVC\FirstMVC\Demo.DAL\obj\Debug\net6.0\ref\Demo.DAL.dll

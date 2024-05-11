@@ -1,0 +1,15 @@
+G:\Route\ASP.NET\Eng.Ahmed Khalid\06 MVC\FirstMVC\Demo.BLL\bin\Debug\net6.0\Demo.BLL.deps.json
+G:\Route\ASP.NET\Eng.Ahmed Khalid\06 MVC\FirstMVC\Demo.BLL\bin\Debug\net6.0\Demo.BLL.dll
+G:\Route\ASP.NET\Eng.Ahmed Khalid\06 MVC\FirstMVC\Demo.BLL\bin\Debug\net6.0\Demo.BLL.pdb
+G:\Route\ASP.NET\Eng.Ahmed Khalid\06 MVC\FirstMVC\Demo.BLL\bin\Debug\net6.0\Demo.DAL.dll
+G:\Route\ASP.NET\Eng.Ahmed Khalid\06 MVC\FirstMVC\Demo.BLL\bin\Debug\net6.0\Demo.DAL.pdb
+G:\Route\ASP.NET\Eng.Ahmed Khalid\06 MVC\FirstMVC\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.AssemblyReference.cache
+G:\Route\ASP.NET\Eng.Ahmed Khalid\06 MVC\FirstMVC\Demo.BLL\obj\Debug\net6.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+G:\Route\ASP.NET\Eng.Ahmed Khalid\06 MVC\FirstMVC\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfoInputs.cache
+G:\Route\ASP.NET\Eng.Ahmed Khalid\06 MVC\FirstMVC\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfo.cs
+G:\Route\ASP.NET\Eng.Ahmed Khalid\06 MVC\FirstMVC\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CoreCompileInputs.cache
+G:\Route\ASP.NET\Eng.Ahmed Khalid\06 MVC\FirstMVC\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.Up2Date
+G:\Route\ASP.NET\Eng.Ahmed Khalid\06 MVC\FirstMVC\Demo.BLL\obj\Debug\net6.0\Demo.BLL.dll
+G:\Route\ASP.NET\Eng.Ahmed Khalid\06 MVC\FirstMVC\Demo.BLL\obj\Debug\net6.0\refint\Demo.BLL.dll
+G:\Route\ASP.NET\Eng.Ahmed Khalid\06 MVC\FirstMVC\Demo.BLL\obj\Debug\net6.0\Demo.BLL.pdb
+G:\Route\ASP.NET\Eng.Ahmed Khalid\06 MVC\FirstMVC\Demo.BLL\obj\Debug\net6.0\ref\Demo.BLL.dll

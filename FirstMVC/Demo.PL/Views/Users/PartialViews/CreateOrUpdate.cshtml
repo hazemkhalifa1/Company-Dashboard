@@ -1,0 +1,22 @@
+﻿@model AppUserVM
+<div class="form-group">
+    <label asp-for="@Model.FName" class="col-form-label"></label>
+    <input asp-for="@Model.FName" class="form-control" />
+    <span asp-validation-for="@Model.FName" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="@Model.LName" class="col-form-label"></label>
+    <input asp-for="@Model.LName" class="form-control" />
+    <span asp-validation-for="@Model.LName" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="@Model.Email" class="col-form-label"></label>
+    <input asp-for="@Model.Email" class="form-control" readonly />
+</div>
+<br />
+
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
